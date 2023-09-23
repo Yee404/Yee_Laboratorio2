@@ -1,0 +1,4 @@
+﻿id_cursos,id_sede,nombre_curso,horario,duracion,dias,cant_estudiantes
+12300,110,Programación orientada a objetos,7,2,"Lunes, Viernes",60
+45600,220,Cálculo,,3,"Lunes, Miércoles, Viernes",50
+78900,330,Física,,1,"Martes, Jueves",55
